@@ -1,0 +1,198 @@
+{
+  "templates": [
+    {
+      "template": {
+        "id": "",
+        "type": "template1",
+        "label": {
+          "label1": "title",
+          "label2": "sub_title",
+          "label3": "brand_name"
+        },
+        "color": {
+          "card_color": "",
+          "card_text_color": "",
+          "button_color": "",
+          "button_text_color": ""
+        },
+        "version": "0"
+      },
+      "selected_brand": [
+        "5f0412a991b6a34de61669fc",
+        "5f7ef2b78c3826492477fbdb",
+        "5fa0dd3d386cd53432cc222d",
+        "5cab8d9ab2ec287f94a40b74",
+        "6102522449d66047245ce25b",
+        "61686ab02663f01bfefad7f9",
+        "61686b2f2663f01bfefad7fc",
+        "5fa0df31c16e867e5ff55f36",
+        "5f461b6cc6745f1054534cc2"
+      ],
+      "is_default": true
+    },
+    {
+      "template": {
+        "id": "",
+        "type": "template1",
+        "label": {
+          "label1": "title",
+          "label2": "sub_title",
+          "label3": "brand_name"
+        },
+        "color": {
+          "card_color": "",
+          "card_text_color": "",
+          "button_color": "",
+          "button_text_color": ""
+        },
+        "version": "1"
+      },
+      "selected_brand": [
+        "5f0412a991b6a34de61669fc",
+        "5f7ef2b78c3826492477fbdb",
+        "5fa0dd3d386cd53432cc222d",
+        "5cab8d9ab2ec287f94a40b74",
+        "6102522449d66047245ce25b",
+        "61686ab02663f01bfefad7f9",
+        "61686b2f2663f01bfefad7fc",
+        "5fa0df31c16e867e5ff55f36",
+        "5f461b6cc6745f1054534cc2"
+      ],
+      "is_default": true
+    },
+    {
+      "template": {
+        "id": "",
+        "type": "template1",
+        "label": {
+          "label1": "title",
+          "label2": "sub_title",
+          "label3": "brand_name"
+        },
+        "color": {
+          "card_color": "",
+          "card_text_color": "",
+          "button_color": "",
+          "button_text_color": ""
+        },
+        "version": "1"
+      },
+      "selected_brand": [
+        "5f0412a991b6a34de61669fc",
+        "5f7ef2b78c3826492477fbdb",
+        "5fa0dd3d386cd53432cc222d",
+        "5cab8d9ab2ec287f94a40b74",
+        "6102522449d66047245ce25b",
+        "61686ab02663f01bfefad7f9",
+        "61686b2f2663f01bfefad7fc"
+      ],
+      "is_default": false
+    },
+    {
+      "template": {
+        "id": "",
+        "type": "template2",
+        "label": {
+          "label1": "purchase_date",
+          "label2": "title",
+          "label3": "sub_title",
+          "label4": "bill_url",
+          "image": "image_url"
+        },
+        "color": {
+          "card_color": "",
+          "card_text_color": "",
+          "button_color": "",
+          "button_text_color": ""
+        },
+        "version": "2"
+      },
+      "selected_brand": [
+        "5fa0df31c16e867e5ff55f36",
+        "5f461b6cc6745f1054534cc2"
+      ],
+      "is_default": true
+    },
+    {
+      "template": {
+        "id": "",
+        "type": "template2",
+        "label": {
+          "label1": "purchase_date",
+          "label2": "title",
+          "label3": "sub_title",
+          "label4": "bill_url",
+          "image": "image_url"
+        },
+        "color": {
+          "card_color": "",
+          "card_text_color": "",
+          "button_color": "",
+          "button_text_color": ""
+        },
+        "version": "2"
+      },
+      "selected_brand": [
+        "5fa0df31c16e867e5ff55f36",
+        "5f461b6cc6745f1054534cc2"
+      ],
+      "is_default": false
+    }
+  ],
+  "all_brands": [
+    {
+      "id": "624bd88e0599273c538ed317",
+      "brandId": "5fa0df31c16e867e5ff55f36",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1LTgGQM5MytCvK8BNci0RWq4AHxz4-La5",
+      "brandName": "Skult"
+    },
+    {
+      "id": "624bd88e0599273c538ed318",
+      "brandId": "5f461b6cc6745f1054534cc2",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1eqtXjt_ZlSKsxKtjx5a3BeftJZSIXABe",
+      "brandName": "Jaypore"
+    },
+    {
+      "id": "624bd88e0599273c538ed319",
+      "brandId": "5f0412a991b6a34de61669fc",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1CzCvycNf8p3Na-oA7WtgIpMSivZKlqdD",
+      "brandName": "Shantanu & Nikhil"
+    },
+    {
+      "id": "624bd88e0599273c538ed31a",
+      "brandId": "5f7ef2b78c3826492477fbdb",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1zuTLi8vx8Zy_-PhsYnhTPwLIsbsOUaeC",
+      "brandName": "Forever 21"
+    },
+    {
+      "id": "624bd88e0599273c538ed31b",
+      "brandId": "5fa0dd3d386cd53432cc222d",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1VlONNtZJk5yy8KLbPrRYcSZ4OWMI780Z",
+      "brandName": "Style Up"
+    },
+    {
+      "id": "624bd88e0599273c538ed31c",
+      "brandId": "5cab8d9ab2ec287f94a40b74",
+      "logoPath": "https://drive.google.com/uc?export=view&id=19lG-m-Iem8c07CwGG7bYPBZFc8kZbyl7",
+      "brandName": "Beebay Kids"
+    },
+    {
+      "id": "624bd88e0599273c538ed31d",
+      "brandId": "6102522449d66047245ce25b",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1lGO0bEDVSf2O7784iLu4rGkWnxhNatYT",
+      "brandName": "SSIPL"
+    },
+    {
+      "id": "624bd88e0599273c538ed31e",
+      "brandId": "61686ab02663f01bfefad7f9",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1b3LD9lTPQBqNkuQobX7GD8cucZIhpQwx",
+      "brandName": "Calvin Klein"
+    },
+    {
+      "id": "624bd88e0599273c538ed31f",
+      "brandId": "61686b2f2663f01bfefad7fc",
+      "logoPath": "https://drive.google.com/uc?export=view&id=1uLEkF3ELfCL_DJFMN1JjHxvBQVoEgDJ3",
+      "brandName": "Ximi Vogue"
+    }
+  ]
+}

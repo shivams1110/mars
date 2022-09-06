@@ -1,0 +1,88 @@
+{
+  "template": [
+    {
+      "id": "",
+      "type": "template1",
+      "label": {
+        "label1": "Label 1",
+        "label2": "Label 2",
+        "label3": "Label 3"
+      },
+      "color": {
+        "card_color": "#ffffff",
+        "card_text_color": "#000000",
+        "button_color": null,
+        "button_text_color": null
+      },
+      "version": "2"
+    },
+    {
+      "id": "",
+      "type": "template2",
+      "label": {
+        "label1": "Label 1",
+        "label2": "Label 2",
+        "label3": "Label 3",
+        "label4": "Label 4",
+        "image": "image_url"
+      },
+      "color": {
+        "card_color": null,
+        "card_text_color": null,
+        "button_color": null,
+        "button_text_color": null
+      },
+      "version": "1"
+    },
+    {
+      "id": "",
+      "type": "template3",
+      "label": {
+        "label1": "Label 1",
+        "label2": "Label 2",
+        "label3": "Label 3",
+        "label4": "Label 4",
+        "image": "image_url"
+      },
+      "color": {
+        "card_color": null,
+        "card_text_color": null,
+        "button_color": null,
+        "button_text_color": null
+      },
+      "version": "1"
+    },
+    {
+      "id": "",
+      "type": "template4",
+      "label": {
+        "label1": "Label 1",
+        "label2": "Label 2"
+      },
+      "color": {
+        "card_color": null,
+        "card_text_color": null,
+        "button_color": null,
+        "button_text_color": null
+      },
+      "version": "1"
+    },
+    {
+      "id": "",
+      "type": "template5",
+      "label": {
+        "label1": "Label 1",
+        "label2": "Label 2",
+        "label3": "Label 3",
+        "image": "image_url"
+      },
+      "color": {
+        "card_color": null,
+        "card_text_color": null,
+        "button_color": null,
+        "button_text_color": null
+      },
+      "version": "1"
+    }
+  ]
+}

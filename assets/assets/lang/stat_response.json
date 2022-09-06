@@ -1,0 +1,1328 @@
+{
+  "store_count": 4,
+  "pos_count": 34,
+  "brands": 57,
+  "total_bills": 642,
+  "digital_bills": 642,
+  "digital_printed_bills": 0,
+  "paper_bills": 0,
+  "total_revenue": "7,037,104.89",
+  "sku_count": 0,
+  "bill_view_count": 356,
+  "customer_count": 63,
+  "bill_stats": {
+    "monthly_stats": [
+      {
+        "month": "OCT",
+        "year": 2021,
+        "day_of_month": 0,
+        "bill_count": 286
+      },
+      {
+        "month": "NOV",
+        "year": 2021,
+        "day_of_month": 0,
+        "bill_count": 27
+      },
+      {
+        "month": "DEC",
+        "year": 2021,
+        "day_of_month": 0,
+        "bill_count": 137
+      },
+      {
+        "month": "JAN",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 36
+      },
+      {
+        "month": "FEB",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 1
+      },
+      {
+        "month": "MAR",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 13
+      },
+      {
+        "month": "APR",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 14
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 33
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 81
+      },
+      {
+        "month": "JUL",
+        "year": 2022,
+        "day_of_month": 0,
+        "bill_count": 14
+      }
+    ],
+    "day_of_month_stats": [
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 4,
+        "bill_count": 3
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 5,
+        "bill_count": 7
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 12,
+        "bill_count": 5
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 14,
+        "bill_count": 9
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 16,
+        "bill_count": 1
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 20,
+        "bill_count": 7
+      },
+      {
+        "month": "MAY",
+        "year": 2022,
+        "day_of_month": 31,
+        "bill_count": 1
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 1,
+        "bill_count": 9
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 5,
+        "bill_count": 1
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 7,
+        "bill_count": 11
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 8,
+        "bill_count": 7
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 9,
+        "bill_count": 6
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 10,
+        "bill_count": 1
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 13,
+        "bill_count": 13
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 14,
+        "bill_count": 6
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 15,
+        "bill_count": 5
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 16,
+        "bill_count": 2
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 17,
+        "bill_count": 4
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 18,
+        "bill_count": 5
+      },
+      {
+        "month": "JUN",
+        "year": 2022,
+        "day_of_month": 21,
+        "bill_count": 11
+      },
+      {
+        "month": "JUL",
+        "year": 2022,
+        "day_of_month": 15,
+        "bill_count": 8
+      },
+      {
+        "month": "JUL",
+        "year": 2022,
+        "day_of_month": 20,
+        "bill_count": 1
+      },
+      {
+        "month": "JUL",
+        "year": 2022,
+        "day_of_month": 25,
+        "bill_count": 1
+      },
+      {
+        "month": "JUL",
+        "year": 2022,
+        "day_of_month": 26,
+        "bill_count": 4
+      }
+    ]
+  },
+  "bill_view_stats": {
+    "monthly_stats": [
+      {
+        "month": "NOV",
+        "day_of_month": 0,
+        "year": 2021,
+        "bill_view_count": 14
+      },
+      {
+        "month": "DEC",
+        "day_of_month": 0,
+        "year": 2021,
+        "bill_view_count": 57
+      },
+      {
+        "month": "JAN",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 29
+      },
+      {
+        "month": "FEB",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 103
+      },
+      {
+        "month": "MAR",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 29
+      },
+      {
+        "month": "APR",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 23
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 77
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 112
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 0,
+        "year": 2022,
+        "bill_view_count": 5
+      }
+    ],
+    "day_of_month_stats": [
+      {
+        "month": "MAY",
+        "day_of_month": 2,
+        "year": 2022,
+        "bill_view_count": 6
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 4,
+        "year": 2022,
+        "bill_view_count": 5
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 5,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 9,
+        "year": 2022,
+        "bill_view_count": 3
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 11,
+        "year": 2022,
+        "bill_view_count": 4
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 13,
+        "year": 2022,
+        "bill_view_count": 11
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 14,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 16,
+        "year": 2022,
+        "bill_view_count": 4
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 20,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 23,
+        "year": 2022,
+        "bill_view_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 26,
+        "year": 2022,
+        "bill_view_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 27,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 30,
+        "year": 2022,
+        "bill_view_count": 4
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 31,
+        "year": 2022,
+        "bill_view_count": 8
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 1,
+        "year": 2022,
+        "bill_view_count": 13
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 2,
+        "year": 2022,
+        "bill_view_count": 5
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 4,
+        "year": 2022,
+        "bill_view_count": 19
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 5,
+        "year": 2022,
+        "bill_view_count": 8
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 6,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 7,
+        "year": 2022,
+        "bill_view_count": 12
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 8,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 9,
+        "year": 2022,
+        "bill_view_count": 5
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 10,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 13,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 14,
+        "year": 2022,
+        "bill_view_count": 9
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 15,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 16,
+        "year": 2022,
+        "bill_view_count": 2
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 17,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 20,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 21,
+        "year": 2022,
+        "bill_view_count": 7
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 23,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 29,
+        "year": 2022,
+        "bill_view_count": 6
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 5,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 20,
+        "year": 2022,
+        "bill_view_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 23,
+        "year": 2022,
+        "bill_view_count": 3
+      }
+    ]
+  },
+  "unique_view_stats": {
+    "monthly_stats": [
+      {
+        "month": "NOV",
+        "day_of_month": 0,
+        "year": 2021,
+        "unique_view_count": 0
+      },
+      {
+        "month": "DEC",
+        "day_of_month": 0,
+        "year": 2021,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JAN",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 4
+      },
+      {
+        "month": "FEB",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 6
+      },
+      {
+        "month": "MAR",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 16
+      },
+      {
+        "month": "APR",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 13
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 51
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 57
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 0,
+        "year": 2022,
+        "unique_view_count": 0
+      }
+    ],
+    "day_of_month_stats": [
+      {
+        "month": "MAY",
+        "day_of_month": 2,
+        "year": 2022,
+        "unique_view_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 4,
+        "year": 2022,
+        "unique_view_count": 5
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 5,
+        "year": 2022,
+        "unique_view_count": 6
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 9,
+        "year": 2022,
+        "unique_view_count": 3
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 11,
+        "year": 2022,
+        "unique_view_count": 4
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 13,
+        "year": 2022,
+        "unique_view_count": 9
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 14,
+        "year": 2022,
+        "unique_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 16,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 20,
+        "year": 2022,
+        "unique_view_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 23,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 26,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 27,
+        "year": 2022,
+        "unique_view_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 30,
+        "year": 2022,
+        "unique_view_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 31,
+        "year": 2022,
+        "unique_view_count": 3
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 1,
+        "year": 2022,
+        "unique_view_count": 12
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 2,
+        "year": 2022,
+        "unique_view_count": 3
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 4,
+        "year": 2022,
+        "unique_view_count": 17
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 5,
+        "year": 2022,
+        "unique_view_count": 4
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 6,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 7,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 8,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 9,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 10,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 13,
+        "year": 2022,
+        "unique_view_count": 1
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 14,
+        "year": 2022,
+        "unique_view_count": 5
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 15,
+        "year": 2022,
+        "unique_view_count": 4
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 16,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 17,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 20,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 21,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 23,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 29,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 5,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 20,
+        "year": 2022,
+        "unique_view_count": 0
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 23,
+        "year": 2022,
+        "unique_view_count": 0
+      }
+    ]
+  },
+  "email_stats": {
+    "monthly_stats": [
+      {
+        "month": "DEC",
+        "day_of_month": 0,
+        "year": 2021,
+        "email_count": 19
+      },
+      {
+        "month": "JAN",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 30
+      },
+      {
+        "month": "FEB",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 1
+      },
+      {
+        "month": "MAR",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 1
+      },
+      {
+        "month": "APR",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 15
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 43
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 81
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 0,
+        "year": 2022,
+        "email_count": 43
+      }
+    ],
+    "day_of_month_stats": [
+      {
+        "month": "MAY",
+        "day_of_month": 9,
+        "year": 2022,
+        "email_count": 19
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 10,
+        "year": 2022,
+        "email_count": 5
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 11,
+        "year": 2022,
+        "email_count": 3
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 12,
+        "year": 2022,
+        "email_count": 10
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 13,
+        "year": 2022,
+        "email_count": 6
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 3,
+        "year": 2022,
+        "email_count": 43
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 4,
+        "year": 2022,
+        "email_count": 33
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 5,
+        "year": 2022,
+        "email_count": 2
+      },
+      {
+        "month": "JUN",
+        "day_of_month": 23,
+        "year": 2022,
+        "email_count": 3
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 1,
+        "year": 2022,
+        "email_count": 9
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 11,
+        "year": 2022,
+        "email_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 13,
+        "year": 2022,
+        "email_count": 4
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 22,
+        "year": 2022,
+        "email_count": 24
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 23,
+        "year": 2022,
+        "email_count": 4
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 27,
+        "year": 2022,
+        "email_count": 1
+      }
+    ]
+  },
+  "sms_stats": {
+    "monthly_stats": [
+      {
+        "month": "DEC",
+        "day_of_month": 0,
+        "year": 2021,
+        "sms_count": 21
+      },
+      {
+        "month": "JAN",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 24
+      },
+      {
+        "month": "FEB",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 7
+      },
+      {
+        "month": "MAR",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 13
+      },
+      {
+        "month": "APR",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 42
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 60
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 0,
+        "year": 2022,
+        "sms_count": 8
+      }
+    ],
+    "day_of_month_stats": [
+      {
+        "month": "MAY",
+        "day_of_month": 2,
+        "year": 2022,
+        "sms_count": 1
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 9,
+        "year": 2022,
+        "sms_count": 21
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 10,
+        "year": 2022,
+        "sms_count": 6
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 11,
+        "year": 2022,
+        "sms_count": 5
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 12,
+        "year": 2022,
+        "sms_count": 10
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 13,
+        "year": 2022,
+        "sms_count": 7
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 14,
+        "year": 2022,
+        "sms_count": 2
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 16,
+        "year": 2022,
+        "sms_count": 1
+      },
+      {
+        "month": "MAY",
+        "day_of_month": 20,
+        "year": 2022,
+        "sms_count": 7
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 1,
+        "year": 2022,
+        "sms_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 11,
+        "year": 2022,
+        "sms_count": 3
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 12,
+        "year": 2022,
+        "sms_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 21,
+        "year": 2022,
+        "sms_count": 1
+      },
+      {
+        "month": "JUL",
+        "day_of_month": 25,
+        "year": 2022,
+        "sms_count": 2
+      }
+    ]
+  },
+  "days": [
+    {
+      "month": "MAY",
+      "day_of_month": 2,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 4,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 5,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 9,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 10,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 11,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 12,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 13,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 14,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 16,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 20,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 23,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 26,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 27,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 30,
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "day_of_month": 31,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 1,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 2,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 3,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 4,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 5,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 6,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 7,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 8,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 9,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 10,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 13,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 14,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 15,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 16,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 17,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 18,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 20,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 21,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 23,
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "day_of_month": 29,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 1,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 5,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 11,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 12,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 13,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 15,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 20,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 21,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 22,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 23,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 25,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 26,
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "day_of_month": 27,
+      "year": 2022
+    }
+  ],
+  "months": [
+    {
+      "month": "OCT",
+      "year": 2021
+    },
+    {
+      "month": "NOV",
+      "year": 2021
+    },
+    {
+      "month": "DEC",
+      "year": 2021
+    },
+    {
+      "month": "JAN",
+      "year": 2022
+    },
+    {
+      "month": "FEB",
+      "year": 2022
+    },
+    {
+      "month": "MAR",
+      "year": 2022
+    },
+    {
+      "month": "APR",
+      "year": 2022
+    },
+    {
+      "month": "MAY",
+      "year": 2022
+    },
+    {
+      "month": "JUN",
+      "year": 2022
+    },
+    {
+      "month": "JUL",
+      "year": 2022
+    }
+  ]
+}
