@@ -12570,7 +12570,7 @@ _.c=c
 _.d=d
 _.$ti=e},
 Zb:function Zb(){},
-mf(a,b){return new A.E3(a,b,null)},
+mf(a,b,c){return new A.E3(a,c,b,null)},
 aH6(a){var s=a.m6(t.Np)
 if(s!=null)return s
 throw A.c(A.a9p(A.b([A.B1("Scaffold.of() called with a context that does not contain a Scaffold."),A.bG("No Scaffold ancestor could be found starting from the context that was passed to Scaffold.of(). This usually happens when the context provided is from the same StatefulWidget as that whose build function actually creates the Scaffold widget being sought."),A.a9_('There are several ways to avoid this problem. The simplest is to use a Builder to get a context that is "under" the Scaffold. For an example of this, please see the documentation for Scaffold.of():\n  https://api.flutter.dev/flutter/material/Scaffold/of.html'),A.a9_("A more efficient solution is to split your build function into several widgets. This introduces a new context from which you can obtain the Scaffold. In this solution, you would have an outer widget that creates the Scaffold populated by instances of your new inner widgets, and then in these inner widgets you would use Scaffold.of().\nA less elegant but more expedient solution is assign a GlobalKey to the Scaffold, then use the key.currentState property to obtain the ScaffoldState rather than using the Scaffold.of() function."),a.ajD("The context used was")],t.F)))},
@@ -12658,9 +12658,11 @@ _.b=c
 _.c=null},
 aqi:function aqi(a,b){this.a=a
 this.b=b},
-E3:function E3(a,b,c){this.e=a
-this.f=b
-this.a=c},
+E3:function E3(a,b,c,d){var _=this
+_.e=a
+_.f=b
+_.ay=c
+_.a=d},
 w4:function w4(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){var _=this
 _.d=a
 _.e=b
@@ -55896,8 +55898,9 @@ i=c.r.xA(a)
 if(j.d<=0)h.a.toString
 h.a.toString
 A.a(h.fr,e)
-h.a.toString
-return new A.ZV(!1,new A.E8(A.o2(B.ah,!0,g,A.ji(A.a(h.cx,f),new A.ahh(d,h,!1,j,i,s,p),g),B.J,b.db,0,g,g,g,g,g,B.d6),g),g)}}
+a=h.a.ay
+if(a==null)a=b.db
+return new A.ZV(!1,new A.E8(A.o2(B.ah,!0,g,A.ji(A.a(h.cx,f),new A.ahh(d,h,!1,j,i,s,p),g),B.J,a,0,g,g,g,g,g,B.d6),g),g)}}
 A.ahi.prototype={
 $1(a){var s=this.b
 if((s.a.a&30)===0)s.cs(0,this.c)},
@@ -82907,8 +82910,8 @@ Wp(a){var s,r,q,p
 for(s=this.a.a,r=s.length,q=0;q<r;++q){p=s[q]
 if(p.a.b===a)return p}return null}}
 A.tU.prototype={
-G(a,b){var s=A.aAd(),r=$.aW(),q=t._Q
-return A.ni(A.mf(A.tJ(new A.h(4294967295),A.nP("assets/images/karnival_logo.png",null,null),null),A.lz(new A.a43(this),q)),new A.pB(s,r),q)},
+G(a,b){var s=null,r=A.aAd(),q=$.aW(),p=t._Q
+return A.ni(A.mf(A.tJ(new A.h(4294967295),A.nP("assets/images/karnival_logo.png",s,s),s),s,A.lz(new A.a43(this),p)),new A.pB(r,q),p)},
 a4p(a,b){var s=null,r=b.K(t.l).f.a,q=t.p,p=A.bw(A.b([A.aE("Brand Cards",s,s,s,s,A.b0(4278190080,"Montserrat",24,B.ai,0.1),s,s,s),A.di(A.ai(s,s,s,s,s,s,s,s,s,s,s)),A.bA(A.qz(s,s,s,s,!1,new A.a41(),"Search",""),s,500),A.di(A.ai(s,s,s,s,s,s,s,s,s,s,s))],q),B.z,B.t,B.r),o=a.c
 if(o==null)o=s
 else{o=o.a
@@ -82962,7 +82965,7 @@ A.pR.prototype={
 a9(){return new A.W4(B.l)}}
 A.W4.prototype={
 G(a,b){var s=null,r=4294967295,q=t.p,p=A.bw(A.b([A.aE("Receipt Generate Notification",s,s,s,s,A.b0(4285799548,"Inter",16,B.bC,0.1),s,s,s),new A.hw(s,"Send",s,new A.h(r),40,150,s)],q),B.z,B.b8,B.r),o=t.l
-return A.mf(A.tJ(new A.h(r),A.nP("assets/images/karnival_logo.png",s,s),p),new A.aN(B.h2,A.bD(A.b([A.aen("Enter Notification Title","Title",40,1,new A.aoU(),b.K(o).f.a.a*0.4),B.T,A.aen("Enter Body","Body",140,5,new A.aoV(),b.K(o).f.a.a*0.4),B.T,this.zJ(),B.T,this.VB(),B.T],q),B.H,B.t,B.r),s))},
+return A.mf(A.tJ(new A.h(r),A.nP("assets/images/karnival_logo.png",s,s),p),s,new A.aN(B.h2,A.bD(A.b([A.aen("Enter Notification Title","Title",40,1,new A.aoU(),b.K(o).f.a.a*0.4),B.T,A.aen("Enter Body","Body",140,5,new A.aoV(),b.K(o).f.a.a*0.4),B.T,this.zJ(),B.T,this.VB(),B.T],q),B.H,B.t,B.r),s))},
 zJ(){var s=this,r=null,q=t.l,p=s.c.K(q).f,o=A.aE("Redirect to",r,r,r,r,A.b0(4282795590,"Inter",16,B.bC,0.1),r,r,r),n=s.c.K(q).f,m=A.eb(10),l=new A.bU(new A.h(4292467161),1,B.U),k=s.d,j=t.fo
 n=A.bA(A.ai(r,A.ju(B.bk,B.dH,32,!0,A.af(new A.a6(A.b(["Redirect To","View Bill","Open Offer","Open Profile"],t.s),new A.ap_(),j),!0,j.i("aA.E")),new A.ap0(s),B.aK,k,t.N),r,r,new A.bu(B.k,r,new A.c8(l,l,l,l),m,r,r,B.E),r,r,r,r,B.bm,r),r,n.a.a*0.24)
 q=s.c.K(q).f
@@ -83116,7 +83119,7 @@ l=b.K(n).f
 n=b.K(n).f
 k=r.a.c
 k.toString
-return A.mf(o,A.bw(A.b([m,A.ai(q,A.ir(A.bA(new A.nd(new A.eM(q,q,q,q,q,q,q,k),q,q),q,n.a.a*0.25),q,q),new A.h(4292467161),q,q,q,q,q,q,q,l.a.a*0.5)],s),B.z,B.iv,B.ap))},
+return A.mf(o,q,A.bw(A.b([m,A.ai(q,A.ir(A.bA(new A.nd(new A.eM(q,q,q,q,q,q,q,k),q,q),q,n.a.a*0.25),q,q),new A.h(4292467161),q,q,q,q,q,q,q,l.a.a*0.5)],s),B.z,B.iv,B.ap))},
 XA(){var s=null
 return A.hj(new A.aN(B.X,A.bD(A.b([A.aE("Label Selection",s,s,s,s,A.b0(4278190080,"Montserrat",24,B.a0,0.1),s,s,s),B.T,new A.pW("Label 1",new A.aq0(),s),B.T,new A.pW("Label 2",new A.aq1(),s),B.T,new A.pW("Label 3",new A.aq2(),s)],t.p),B.H,B.t,B.ap),s),s)},
 VD(){var s=this,r=null
@@ -83187,7 +83190,7 @@ r.f=s},
 $S:0}
 A.uU.prototype={
 G(a,b){var s=null,r=4294967295,q=4281794620,p="Montserrat",o=t.p
-return new A.AC(3,0,A.mf(A.tJ(new A.h(r),A.nP("assets/images/karnival_logo.png",s,s),A.bw(A.b([A.bA(new A.EW(A.b([A.aAW(A.aE("Home",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s)),A.aAW(A.aE("Karnival App",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s)),A.aAW(A.aE("Bill Template",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s))],o),s),s,400),new A.hw(new A.aaY(),"Schedule App Notification",s,new A.h(r),40,200,s)],o),B.z,B.b8,B.r)),B.a7e),s)}}
+return new A.AC(3,0,A.mf(A.tJ(new A.h(r),A.nP("assets/images/karnival_logo.png",s,s),A.bw(A.b([A.bA(new A.EW(A.b([A.aAW(A.aE("Home",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s)),A.aAW(A.aE("Karnival App",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s)),A.aAW(A.aE("Bill Template",s,s,s,s,A.b0(q,p,12,B.o,0.1),s,s,s))],o),s),s,400),new A.hw(new A.aaY(),"Schedule App Notification",s,new A.h(r),40,200,s)],o),B.z,B.b8,B.r)),new A.h(4294769916),B.a7e),s)}}
 A.aaY.prototype={
 $0(){$.n1().$1$0(t.YR).nD("/schedule_notification_screen")},
 $S:3}
@@ -83260,7 +83263,7 @@ return new A.XW(new A.l0(B.ek,s),new A.l0(B.ek,s),B.l)}}
 A.XW.prototype={
 aM(){this.ba()
 A.afu().bt(0,new A.asf(),t.a)},
-G(a,b){return A.mf(null,this.ahN(b))},
+G(a,b){return A.mf(null,new A.h(4294769916),this.ahN(b))},
 ahN(a){var s=A.aAd(),r=$.aW(),q=t.DO
 return A.ni(A.lz(new A.ase(this),q),new A.qN(s,r),q)}}
 A.asf.prototype={
@@ -83311,7 +83314,7 @@ return A.Q($async$yH,r)}}
 A.qU.prototype={
 a9(){return new A.Yn(B.l)}}
 A.Yn.prototype={
-G(a,b){return A.mf(null,new A.aN(B.Og,this.a4o(),null))},
+G(a,b){return A.mf(null,null,new A.aN(B.Og,this.a4o(),null))},
 a4o(){var s=null,r=A.aE("Notification",s,s,s,s,A.b0(4282795590,"Inter",20,B.a0,0.1),s,s,s),q=A.aE("Category",s,s,s,s,A.b0(4288453788,"Inter",16,B.o,0.1),s,s,s),p=A.eb(10),o=new A.bU(new A.h(4292467161),1,B.U),n=this.d,m=t.fo,l=t.p
 return A.bD(A.b([A.bw(A.b([r,A.ai(s,A.bw(A.b([q,B.a6n,A.ai(s,A.ju(B.bk,B.dI,32,!1,A.af(new A.a6(A.b(["All","Offers","Test","What is this category"],t.s),new A.at0(),m),!0,m.i("aA.E")),new A.at1(this),B.aK,n,t.N),s,s,new A.bu(B.k,s,new A.c8(o,o,o,o),p,s,s,B.E),s,s,s,s,B.bm,s)],l),B.z,B.t,B.r),s,s,s,s,s,s,s,s,s),new A.hw(new A.at2(),"Create New",new A.h(4285799548),new A.h(4294967295),s,150,s)],l),B.z,B.b8,B.r)],l),B.z,B.t,B.r)}}
 A.at0.prototype={
@@ -83331,7 +83334,7 @@ $S:3}
 A.qY.prototype={
 a9(){return new A.Yx(new A.l0(B.ek,$.aW()),B.l)}}
 A.Yx.prototype={
-G(a,b){return A.mf(null,this.ahO(b))},
+G(a,b){return A.mf(null,new A.h(4294769916),this.ahO(b))},
 ahO(a){var s=A.aAd(),r=$.aW(),q=t.iI
 return A.ni(A.lz(new A.at6(this),q),new A.qZ(s,B.Z5,r),q)}}
 A.at6.prototype={
@@ -83385,7 +83388,7 @@ A.rk.prototype={
 a9(){return new A.ZW(B.l)}}
 A.ZW.prototype={
 G(a,b){var s=this,r=null,q=4294967295,p=t.p,o=t.l
-return A.mf(A.tJ(new A.h(q),A.nP("assets/images/karnival_logo.png",r,r),A.bw(A.b([A.di(A.ai(r,r,r,r,r,r,r,r,r,r,r)),new A.hw(new A.au5(),"Send",new A.h(4285799548),new A.h(q),40,120,r)],p),B.z,B.t,B.r)),new A.aN(B.h2,A.bD(A.b([A.bw(A.b([s.Vx(),s.VH()],p),B.z,B.b8,B.r),B.T,A.aen("Enter Notification Title","Title",10,1,new A.au6(),b.K(o).f.a.a*0.4),B.T,A.aen("Enter Body","Body",140,5,new A.au7(),b.K(o).f.a.a*0.4),B.T,s.zJ(),B.bh,s.Wj()],p),B.H,B.t,B.r),r))},
+return A.mf(A.tJ(new A.h(q),A.nP("assets/images/karnival_logo.png",r,r),A.bw(A.b([A.di(A.ai(r,r,r,r,r,r,r,r,r,r,r)),new A.hw(new A.au5(),"Send",new A.h(4285799548),new A.h(q),40,120,r)],p),B.z,B.t,B.r)),r,new A.aN(B.h2,A.bD(A.b([A.bw(A.b([s.Vx(),s.VH()],p),B.z,B.b8,B.r),B.T,A.aen("Enter Notification Title","Title",10,1,new A.au6(),b.K(o).f.a.a*0.4),B.T,A.aen("Enter Body","Body",140,5,new A.au7(),b.K(o).f.a.a*0.4),B.T,s.zJ(),B.bh,s.Wj()],p),B.H,B.t,B.r),r))},
 zJ(){var s=this,r=null,q=t.l,p=s.c.K(q).f,o=A.aE("Redirect to",r,r,r,r,A.b0(4282795590,"Inter",16,B.bC,0.1),r,r,r),n=s.c.K(q).f,m=A.eb(10),l=new A.bU(new A.h(4292467161),1,B.U),k=s.d,j=t.fo
 n=A.bA(A.ai(r,A.ju(B.bk,B.dH,32,!0,A.af(new A.a6(A.b(["Redirect To","View Bill","Open Offer","Open Profile"],t.s),new A.auf(),j),!0,j.i("aA.E")),new A.aug(s),B.aK,k,t.N),r,r,new A.bu(B.k,r,new A.c8(l,l,l,l),m,r,r,B.E),r,r,r,r,B.bm,r),r,n.a.a*0.24)
 q=s.c.K(q).f
@@ -83476,7 +83479,7 @@ o=A.tJ(new A.h(4294967295),A.nP("assets/images/karnival_logo.png",p,p),o)
 s=A.b([],t.ym)
 r=A.b([],t.p)
 q=$.aW()
-return A.mf(o,A.ni(this.Vy(),new A.mh(s,r,B.oG,q),t.p1))},
+return A.mf(o,p,A.ni(this.Vy(),new A.mh(s,r,B.oG,q),t.p1))},
 Vy(){var s=null,r=4285799548,q=t.p
 return A.bD(A.b([new A.aN(B.Oh,A.bw(A.b([A.aE("Select Template",s,s,s,s,A.b0(4281794620,"Montserrat",32,B.ai,0.1),s,s,s),A.jE(!1,s,!0,A.nN(B.OP,new A.h(r),s),s,!0,s,s,s,s,s,s,s,s,s,new A.aup(this),s,s,s),A.nN(B.OQ,new A.h(r),s)],q),B.z,B.t,B.r),s),A.lz(new A.auq(this),t.p1)],q),B.H,B.t,B.r)},
 gmy(){return!0}}
@@ -83568,8 +83571,8 @@ this.dR$=null}this.kC()}}
 A.rr.prototype={
 a9(){return new A.a_4(B.l)}}
 A.a_4.prototype={
-G(a,b){var s=A.tJ(null,null,null),r=A.b([],t.Ll),q=$.aW(),p=t.dN
-return A.mf(s,A.ni(A.lz(new A.aux(this),p),new A.rq(r,[],[],q),p))}}
+G(a,b){var s=null,r=A.tJ(s,s,s),q=A.b([],t.Ll),p=$.aW(),o=t.dN
+return A.mf(r,s,A.ni(A.lz(new A.aux(this),o),new A.rq(q,[],[],p),o))}}
 A.aux.prototype={
 $3(a,b,c){var s,r,q=b.a
 if(q.length===0){s=this.a.a
